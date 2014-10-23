@@ -3580,6 +3580,21 @@
         "No jQuery",
         "Bootstrap"
       ]
+    },
+    {
+      "name": "Room4Debate",
+      "thumb": "room4debate/thumb.png",
+      "desc": "Room4Debate is a platform where people can debate topics of interest",
+      "url": "http://room4debate.com",
+      "info": "http://room4debate.com/about",
+      "submitter": "carlosrymer",
+      "submissionDate": "2014-10-23",
+      "tags": [
+        "Production",
+        "CRUD",
+        "Animations", "Local Storage", "Satellizer", "NodeJS",
+        "No jQuery"
+      ]
     }
 
   ]
